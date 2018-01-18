@@ -1,3 +1,5 @@
+![Icon](icon.png "C Programming")
+
 # C Programming
 
 Here you will find a variety of programming examples written in C. 
@@ -9,6 +11,18 @@ Here you will find a variety of programming examples written in C.
 ### Prerequisites
 
 A C compiler. [GCC](https://www.google.com) will suffice for the examples contained herein.
+
+### Compiling
+
+`gcc [input path] -o [output path]`
+
+Example:
+
+`gcc c_fundamentals/hello_world.c -o ./hello_world`
+
+Now, the binary may be executed:
+
+`./hello_world`
 
 ## Built With
 
