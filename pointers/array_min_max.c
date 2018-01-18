@@ -6,7 +6,8 @@
 // min_max prototype
 void min_max(int a[], int n, int *min, int *max);
 
-int main(void){
+int main(void)
+{
   int b[N], i, min, max;
 
   printf("Enter %d numbers: ", N);
@@ -20,11 +21,11 @@ int main(void){
   printf("Largest: %d\n", max);
 
   return 0;
-
 }
 
 
-void min_max(int a[], int n, int *min, int *max) {
+void min_max(int a[], int n, int *min, int *max)
+{
   int i;
 
   *min = *max = a[0];

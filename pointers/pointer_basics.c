@@ -9,7 +9,8 @@ void decompose(double x, long *int_part, double *frac_part) {
   printf("fraction part: %f\n", *frac_part);
 }
 
-int main() {
+int main()
+{
   int i, *p;
 
   double x = 10.1234;
