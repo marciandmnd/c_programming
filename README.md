@@ -8,7 +8,7 @@ Here you will find a variety of programming examples written in C.
 
 ### Prerequisites
 
-A C compiler. [GCC](https://www.google.com) will suffice for the examples container herein.
+A C compiler. [GCC](https://www.google.com) will suffice for the examples contained herein.
 
 ## Built With
 
